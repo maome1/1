@@ -1,0 +1,5 @@
+{
+  "name": "Digital Creator Profile Page",
+  "description": "A personal profile page that dynamically displays a user's avatar, bio, and social media links with custom styling, based on a JSON configuration.",
+  "requestFramePermissions": []
+}
