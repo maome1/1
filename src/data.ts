@@ -2,7 +2,7 @@ import type { AppData } from './types';
 
 export const appData: AppData = {
   "profile": {
-    "avatarUrl": "https://picsum.photos/seed/mamo/200",
+    "avatarUrl": "./profile.png",
     "name": "MAOME",
     "title": "",
     "bio": "سُرَّ منّ رأى || 1410 هـ\n\"الكَلِمّة الطيّبة، تجبّر الخاطر\"\n(لفقيدتي الجَنَّة، وليَّ الصَّبر)"
